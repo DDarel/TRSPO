@@ -1,1 +1,1 @@
-Vladyslav Shevchuk KI-02 Repository for HomeWork
+Vladyslav Shevchuk repository for TRSPO HomeWork
